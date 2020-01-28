@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24e451a9-2c3a-45c7-84a7-a6ec6c6f1a79" name="Default Changelist" comment="" />
+    <list default="true" id="24e451a9-2c3a-45c7-84a7-a6ec6c6f1a79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Batch_File/All_Library.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/gora2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/gora2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/db_engine_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/db_engine_go.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W44voAhoVuTedXTF32Fe2awkYD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -36,14 +49,14 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gora2\PycharmProjects\10Clouds_task\TestCases" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Develop\Python_source\10Clouds_task" />
       <recent name="C:\Users\gora2\PycharmProjects\10Clouds_task\TestCases\allure-report" />
       <recent name="C:\Users\gora2\PycharmProjects\10Clouds_task\CommonModule" />
       <recent name="C:\Users\gora2\PycharmProjects\10Clouds_task\Add_New_Data" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gora2\PycharmProjects\10Clouds_task\TestCases" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest in bin">
@@ -194,11 +207,11 @@
     <list>
       <item itemvalue="Python.Test_Basic_Authentication" />
       <item itemvalue="Python.db_engine_go" />
+      <item itemvalue="Python.Library" />
+      <item itemvalue="Python.Test_Case_read_data_from_xl_table" />
       <item itemvalue="Python tests.Unittests in bin" />
       <item itemvalue="Python tests.pytest in bin" />
       <item itemvalue="Python tests.Unittests for test_unittest.TestCalendar" />
-      <item itemvalue="Python.Library" />
-      <item itemvalue="Python.Test_Case_read_data_from_xl_table" />
     </list>
     <recent_temporary>
       <list>
@@ -272,30 +285,30 @@
     <state x="-1180" y="190" key="FileChooserDialogImpl/0.0.1536.824/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1578936254185" />
     <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824/-1920.-86.1920.1040@0.0.1536.824" timestamp="1578951127776" />
     <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580207253755" />
-    <state width="449" height="88" key="GridCell.Tab.0.bottom" timestamp="1580203291534">
+    <state width="449" height="238" key="GridCell.Tab.0.bottom" timestamp="1580217689912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1579358268669" />
     <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-86.1920.1040@0.0.1536.824" timestamp="1579380574831" />
-    <state width="449" height="88" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580203291534" />
-    <state width="449" height="88" key="GridCell.Tab.0.center" timestamp="1580203291534">
+    <state width="449" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580217689912" />
+    <state width="449" height="238" key="GridCell.Tab.0.center" timestamp="1580217689912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1579358268668" />
     <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-86.1920.1040@0.0.1536.824" timestamp="1579380574831" />
-    <state width="449" height="88" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580203291534" />
-    <state width="449" height="88" key="GridCell.Tab.0.left" timestamp="1580203291533">
+    <state width="449" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580217689912" />
+    <state width="449" height="238" key="GridCell.Tab.0.left" timestamp="1580217689912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1579358268668" />
     <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-86.1920.1040@0.0.1536.824" timestamp="1579380574830" />
-    <state width="449" height="88" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580203291533" />
-    <state width="449" height="88" key="GridCell.Tab.0.right" timestamp="1580203291534">
+    <state width="449" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580217689912" />
+    <state width="449" height="238" key="GridCell.Tab.0.right" timestamp="1580217689912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1579358268668" />
     <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-86.1920.1040@0.0.1536.824" timestamp="1579380574831" />
-    <state width="449" height="88" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580203291534" />
+    <state width="449" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580217689912" />
     <state width="632" height="184" key="LargeValuePreview.password" timestamp="1580136988022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

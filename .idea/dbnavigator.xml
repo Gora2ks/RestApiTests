@@ -31,8 +31,8 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="47ffb424-9014-492a-9393-79e3f4db56e9">
-      <console name="sqlite_my_1" type="STANDARD" schema="main" session="Main"><![CDATA[select *
-from (select * from auth_group)]]></console>
+      <console name="sqlite_my_1" type="STANDARD" schema="main" session="Main">select *
+from (select * from auth_group)</console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">

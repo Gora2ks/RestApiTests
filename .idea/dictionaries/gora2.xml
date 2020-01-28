@@ -6,9 +6,11 @@
       <w>firenze</w>
       <w>gora</w>
       <w>headerdata</w>
+      <w>jsonpath</w>
       <w>keylist</w>
       <w>koshak</w>
       <w>kosiv</w>
+      <w>openpyxl</w>
       <w>postundefined</w>
       <w>pytest</w>
       <w>reqres</w>
