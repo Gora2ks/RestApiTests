@@ -1,0 +1,94 @@
+{
+  "uid" : "f5dbbe6b3f2a7397",
+  "name" : "test_4_add_post_reqres",
+  "fullName" : "TestCases.Test_For10Clouds#test_4_add_post_reqres",
+  "historyId" : "bc2e03275d3bea59cde675a24666ff27",
+  "time" : {
+    "start" : 1578779516405,
+    "stop" : 1578779516715,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "precondition",
+    "time" : {
+      "start" : 1578779514551,
+      "stop" : 1578779514551,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3cfad7a9cb01d093",
+      "name" : "stdout",
+      "source" : "3cfad7a9cb01d093.txt",
+      "type" : "text/plain",
+      "size" : 1025
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "POST_REQRES"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_For10Clouds"
+  }, {
+    "name" : "host",
+    "value" : "HataRide"
+  }, {
+    "name" : "thread",
+    "value" : "29420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.Test_For10Clouds"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75961fd96b532eda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578779382781,
+        "stop" : 1578779383079,
+        "duration" : 298
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "POST_REQRES" ]
+  },
+  "source" : "f5dbbe6b3f2a7397.json",
+  "parameterValues" : [ ]
+}

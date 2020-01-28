@@ -1,0 +1,8 @@
+{
+  "postId": "1",
+  "id": 1,
+  "name": "Igor Koshak",
+  "email": "gora5gsm@gmail.com",
+  "body": "Rock & roll forever"
+}
+200

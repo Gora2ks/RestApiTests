@@ -1,0 +1,94 @@
+{
+  "uid" : "1bc61045df788cfd",
+  "name" : "test_1_get_post_13_",
+  "fullName" : "TestCases.Test_For10Clouds#test_1_get_post_13_",
+  "historyId" : "2947dfbc4af74a145d255d3b3e78fa21",
+  "time" : {
+    "start" : 1578779514553,
+    "stop" : 1578779514755,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "precondition",
+    "time" : {
+      "start" : 1578779514551,
+      "stop" : 1578779514551,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8dcc0047f002f841",
+      "name" : "stdout",
+      "source" : "8dcc0047f002f841.txt",
+      "type" : "text/plain",
+      "size" : 306
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "GET"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_For10Clouds"
+  }, {
+    "name" : "host",
+    "value" : "HataRide"
+  }, {
+    "name" : "thread",
+    "value" : "29420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.Test_For10Clouds"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5c92f315e50a68fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578779381075,
+        "stop" : 1578779381339,
+        "duration" : 264
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "GET" ]
+  },
+  "source" : "1bc61045df788cfd.json",
+  "parameterValues" : [ ]
+}

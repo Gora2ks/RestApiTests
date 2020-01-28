@@ -1,0 +1,94 @@
+{
+  "uid" : "1d93b0fd13c8cc9f",
+  "name" : "test_3_add_post",
+  "fullName" : "TestCases.Test_For10Clouds#test_3_add_post",
+  "historyId" : "44dd267895b12aa8d8d4099c3674f8d3",
+  "time" : {
+    "start" : 1578779515458,
+    "stop" : 1578779516191,
+    "duration" : 733
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "precondition",
+    "time" : {
+      "start" : 1578779514551,
+      "stop" : 1578779514551,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87c30a7c928d815a",
+      "name" : "stdout",
+      "source" : "87c30a7c928d815a.txt",
+      "type" : "text/plain",
+      "size" : 164
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "POST"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_For10Clouds"
+  }, {
+    "name" : "host",
+    "value" : "HataRide"
+  }, {
+    "name" : "thread",
+    "value" : "29420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.Test_For10Clouds"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf4036d045052e10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578779382000,
+        "stop" : 1578779382554,
+        "duration" : 554
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "POST" ]
+  },
+  "source" : "1d93b0fd13c8cc9f.json",
+  "parameterValues" : [ ]
+}

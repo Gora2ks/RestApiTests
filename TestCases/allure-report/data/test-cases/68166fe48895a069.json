@@ -1,0 +1,103 @@
+{
+  "uid" : "68166fe48895a069",
+  "name" : "test_7_delete_object",
+  "fullName" : "TestCases.Test_For10Clouds#test_7_delete_object",
+  "historyId" : "09109f436df3e4706d618307b339b731",
+  "time" : {
+    "start" : 1578779519636,
+    "stop" : 1578779521586,
+    "duration" : 1950
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 200 == 204",
+  "statusTrace" : "precondition = None\n\n    @pytest.mark.DELETE\n    def test_7_delete_object(precondition):\n        # url = 'https://jsonplaceholder.typicode.com/posts/1/'\n        url = 'https://jsonplaceholder.typicode.com/posts/1'\n        response = requests.delete(url)\n        print(response.text)\n        response_code = response.status_code\n        print(response_code)\n>       assert response_code == 204\nE       assert 200 == 204\n\nTest_For10Clouds.py:168: AssertionError",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "precondition",
+    "time" : {
+      "start" : 1578779514551,
+      "stop" : 1578779514551,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 200 == 204",
+    "statusTrace" : "precondition = None\n\n    @pytest.mark.DELETE\n    def test_7_delete_object(precondition):\n        # url = 'https://jsonplaceholder.typicode.com/posts/1/'\n        url = 'https://jsonplaceholder.typicode.com/posts/1'\n        response = requests.delete(url)\n        print(response.text)\n        response_code = response.status_code\n        print(response_code)\n>       assert response_code == 204\nE       assert 200 == 204\n\nTest_For10Clouds.py:168: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "301936bd10a069f2",
+      "name" : "stdout",
+      "source" : "301936bd10a069f2.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DELETE"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_For10Clouds"
+  }, {
+    "name" : "host",
+    "value" : "HataRide"
+  }, {
+    "name" : "thread",
+    "value" : "29420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.Test_For10Clouds"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dc6d41e705469b1d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 200 == 204",
+      "time" : {
+        "start" : 1578779384025,
+        "stop" : 1578779384795,
+        "duration" : 770
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "DELETE" ]
+  },
+  "source" : "68166fe48895a069.json",
+  "parameterValues" : [ ]
+}

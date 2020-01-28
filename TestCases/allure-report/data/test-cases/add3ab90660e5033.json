@@ -1,0 +1,94 @@
+{
+  "uid" : "add3ab90660e5033",
+  "name" : "test_2_get_exact_first_name_from_post_reqres",
+  "fullName" : "TestCases.Test_For10Clouds#test_2_get_exact_first_name_from_post_reqres",
+  "historyId" : "5427e44439a5f48400a842f4c52a4bcc",
+  "time" : {
+    "start" : 1578779515137,
+    "stop" : 1578779515453,
+    "duration" : 316
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "precondition",
+    "time" : {
+      "start" : 1578779514551,
+      "stop" : 1578779514551,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8117c056ea0766a9",
+      "name" : "stdout",
+      "source" : "8117c056ea0766a9.txt",
+      "type" : "text/plain",
+      "size" : 24
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "GET_REQRES"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "Test_For10Clouds"
+  }, {
+    "name" : "host",
+    "value" : "HataRide"
+  }, {
+    "name" : "thread",
+    "value" : "29420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.Test_For10Clouds"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "94f9ebd4e828b25a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578779381589,
+        "stop" : 1578779381993,
+        "duration" : 404
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "GET_REQRES" ]
+  },
+  "source" : "add3ab90660e5033.json",
+  "parameterValues" : [ ]
+}

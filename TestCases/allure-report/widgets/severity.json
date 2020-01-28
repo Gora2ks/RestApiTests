@@ -1,0 +1,121 @@
+[ {
+  "uid" : "3bbe22e7f6b0208",
+  "name" : "test_9_delete_object_reqres___",
+  "time" : {
+    "start" : 1578779522245,
+    "stop" : 1578779523380,
+    "duration" : 1135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c708c4e3605f37fd",
+  "name" : "test_6_update_post_reqres",
+  "time" : {
+    "start" : 1578779519260,
+    "stop" : 1578779519629,
+    "duration" : 369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "750e3c6e64bcf3a9",
+  "name" : "test_8_delete_object_reqres",
+  "time" : {
+    "start" : 1578779521865,
+    "stop" : 1578779522228,
+    "duration" : 363
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "296d70f4dbd6fdbc",
+  "name" : "test_1_1_get_exact_comments_from_post_13_",
+  "time" : {
+    "start" : 1578779514760,
+    "stop" : 1578779515130,
+    "duration" : 370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19d38b98c9d53579",
+  "name" : "test_5_update_post",
+  "time" : {
+    "start" : 1578779516721,
+    "stop" : 1578779519254,
+    "duration" : 2533
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d93b0fd13c8cc9f",
+  "name" : "test_3_add_post",
+  "time" : {
+    "start" : 1578779515458,
+    "stop" : 1578779516191,
+    "duration" : 733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68166fe48895a069",
+  "name" : "test_7_delete_object",
+  "time" : {
+    "start" : 1578779519636,
+    "stop" : 1578779521586,
+    "duration" : 1950
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae8558d69f4e2e2d",
+  "name" : "test_7_1_get_deleted_object",
+  "time" : {
+    "start" : 1578779521680,
+    "stop" : 1578779521860,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5dbbe6b3f2a7397",
+  "name" : "test_4_add_post_reqres",
+  "time" : {
+    "start" : 1578779516405,
+    "stop" : 1578779516715,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bc61045df788cfd",
+  "name" : "test_1_get_post_13_",
+  "time" : {
+    "start" : 1578779514553,
+    "stop" : 1578779514755,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "add3ab90660e5033",
+  "name" : "test_2_get_exact_first_name_from_post_reqres",
+  "time" : {
+    "start" : 1578779515137,
+    "stop" : 1578779515453,
+    "duration" : 316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68c67b53c3ce053b",
+  "name" : "test_3_1_get_new_created_post_",
+  "time" : {
+    "start" : 1578779516196,
+    "stop" : 1578779516398,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
